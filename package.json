@@ -2,7 +2,7 @@
   "name": "my-app",
   "license": "0BSD",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "theme/index.ts",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
